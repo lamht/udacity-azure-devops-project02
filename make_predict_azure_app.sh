@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-PORT=443
+PORT=80
 echo "Port: $PORT"
 
 # POST method predict
@@ -25,5 +25,5 @@ curl -d '{
    }
 }'\
      -H "Content-Type: application/json" \
-     -X POST https://<yourappname>.azurewebsites.net:$PORT/predict 
+     -X POST https://lamhtMyapp1.azurewebsites.net:$PORT/predict 
      #your application name <yourappname>goes here
