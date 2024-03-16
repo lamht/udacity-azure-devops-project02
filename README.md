@@ -1,29 +1,30 @@
 # Overview
 
-<TODO: complete this with an overview of your project>
+The python web app project make prediction.
 
 ## Project Plan
-<TODO: Project Plan
-
-* A link to a Trello board for the project
-* A link to a spreadsheet that includes the original and final project plan>
+A link to a spreadsheet that includes the original and final project plan
+https://github.com/lamht/udacity-azure-devops-project02/blob/main/lamht%20Project%20Management.xlsx
 
 ## Instructions
+When the commit on GitHub repos, Auzre Pipeline will trigger build, test, and deploy to Azure Web app service.
+![Alt text](/images/devops-diagram.png?raw=true "DevOps Diagram")
 
-<TODO:  
-* Architectural Diagram (Shows how key parts of the system work)>
-
-<TODO:  Instructions for running the Python project.  How could a user with no context run this project without asking you for any help.  Include screenshots with explicit steps to create that work. Be sure to at least include the following screenshots:
 
 * Project running on Azure App Service
 
+
 * Project cloned into Azure Cloud Shell
 
+
+
 * Passing tests that are displayed after running the `make all` command from the `Makefile`
+
 
 * Output of a test run
 
 * Successful deploy of the project in Azure Pipelines.  [Note the official documentation should be referred to and double checked as you setup CI/CD](https://docs.microsoft.com/en-us/azure/devops/pipelines/ecosystems/python-webapp?view=azure-devops).
+
 
 * Running Azure App Service from Azure Pipelines automatic deployment
 
@@ -42,10 +43,9 @@ Port: 443
 
 ## Enhancements
 
-<TODO: A short description of how to improve the project in the future>
+Next we can user docker image to deployed app.
 
 ## Demo 
 
-<TODO: Add link Screencast on YouTube>
 
 
