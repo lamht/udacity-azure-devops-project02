@@ -1,5 +1,5 @@
 # Overview
-
+![pythonapp](https://github.com/github/docs/actions/workflows/pythonapp.yml/badge.svg)
 The python web app project make prediction.
 
 ## Project Plan
@@ -15,7 +15,7 @@ When the commit on GitHub repos, Auzre Pipeline will trigger build, test, and de
 
 
 * Project cloned into Azure Cloud Shell
-![Alt text](/images/Project_cloned into_Azure_Cloud_Shell.png?raw=true "DevOps Diagram")
+![Alt text](/images/Project_cloned_into_Azure_Cloud_Shell.png?raw=true "DevOps Diagram")
 
 
 
