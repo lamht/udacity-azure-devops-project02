@@ -5,6 +5,9 @@ The python web app project make prediction.
 ## Project Plan
 A link to a spreadsheet that includes the original and final project plan
 https://github.com/lamht/udacity-azure-devops-project02/blob/main/lamht%20Project%20Management.xlsx
+* Trello board
+https://trello.com/b/L3dqMVve/udacity-project-02
+* 
 
 ## Instructions
 When the commit on GitHub repos, Auzre Pipeline will trigger build, test, and deploy to Azure Web app service.
