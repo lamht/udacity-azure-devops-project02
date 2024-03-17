@@ -29,7 +29,7 @@ When the commit on GitHub repos, Auzre Pipeline will trigger build, test, and de
 ![Alt text](/images/azure-build-deployed-pipeline.png?raw=true "DevOps Diagram")
 
 * Running Azure App Service from Azure Pipelines automatic deployment
-
+![Alt text](/images/app-run-azure.png?raw=true "DevOps Diagram")
 
 * Successful prediction from deployed flask app in Azure Cloud Shell.  [Use this file as a template for the deployed prediction](https://github.com/udacity/nd082-Azure-Cloud-DevOps-Starter-Code/blob/master/C2-AgileDevelopmentwithAzure/project/starter_files/flask-sklearn/make_predict_azure_app.sh).
 The output should look similar to this:
@@ -39,10 +39,12 @@ udacity@Azure:~$ ./make_predict_azure_app.sh
 Port: 443
 {"prediction":[20.35373177134412]}
 ```
-
+![Alt text](/images/make-prediction-azure.png?raw=true "DevOps Diagram")
 * Output of streamed log files from deployed application
 
-> 
+* Locust test
+ ![Alt text](/images/locust-test.png?raw=true "DevOps Diagram")
+ ![Alt text](/images/locust-test-gui.png?raw=true "DevOps Diagram")
 
 ## Enhancements
 
