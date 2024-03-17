@@ -1,5 +1,5 @@
 # Overview
-![pythonapp](https://github.com/lamht/udacity-azure-devops-project02/docs/actions/workflows/pythonapp.yml/badge.svg)
+[![Python application test with Github Actions](https://github.com/lamht/udacity-azure-devops-project02/actions/workflows/pythonapp.yml/badge.svg)](https://github.com/lamht/udacity-azure-devops-project02/actions/workflows/pythonapp.yml)
 The python web app project make prediction.
 
 ## Project Plan
